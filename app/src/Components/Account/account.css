@@ -1,0 +1,14 @@
+#login {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+#login .form {
+    width: 540px;
+    max-width: 90%;
+    padding: 40px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #ededed;
+}
