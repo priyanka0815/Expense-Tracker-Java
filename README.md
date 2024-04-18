@@ -40,4 +40,4 @@
 |:------------------:|:-----------------------:|
  priyanka@gmail.com |        priyanka         |
   tanuja@gmail.com  |        priyanka         |
-   anoop@gmai.com   |        priyanka         |
+   anoop@gmail.com   |        priyanka         |
